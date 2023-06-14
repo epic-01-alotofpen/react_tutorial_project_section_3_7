@@ -10,7 +10,7 @@ export const ChildArea = (props) => {
     return (
 
         <>
-            { open ?(            
+            { open ?(
                 <div style={style}>
                     <p>
                         子コンポーネント
